@@ -1,16 +1,17 @@
-# counter_app
+Flutter Counter App – Redesign Assignment
 
-A new Flutter project.
 
-## Getting Started
+Assignment Objective:
+Redesign Flutter’s default counter app by:
+- Adding buttons for increment, decrement, and reset
+- Improving the UI/UX through layout, colors, and typography
 
-This project is a starting point for a Flutter application.
+Requirements Implemented:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Meaningful button layout (not in a single row)
+Creative use of colors, typography, and icons
+Optional features:
+SnackBar on reset
+Color change based on counter value (green for positive, red for negative)
+Clean, readable, and well-commented code
+Widget decomposition for maintainability
